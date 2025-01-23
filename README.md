@@ -1,4 +1,4 @@
-# projet_WebUI_EMKA
+# server_side_webAPP
 **an IoT/serverAPP solution for a local industry to keep track of PCB-cooking time**
 
 Initialisation of a local server on the PC/Rraspberry-Pi (3 or above), 
